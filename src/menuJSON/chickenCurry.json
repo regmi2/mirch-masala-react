@@ -1,0 +1,98 @@
+[
+    {
+      "Item Number": 41,
+      "Name": "Chicken Curry",
+      "Price": "$14.99",
+      "Description": "Boneless chicken cooked in onions, garlic, tomato and spices.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 42,
+      "Name": "Butter Chicken",
+      "Price": "$14.99",
+      "Description": "Boneless tandoori chicken cooked in spices and creamy tomato curry sauce",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 43,
+      "Name": "Chicken Shahi Korma",
+      "Price": "$14.99",
+      "Description": "Chicken cooked with cream sauce and cashews.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 44,
+      "Name": "Chicken Tikka Masala",
+      "Price": "$14.99",
+      "Description": "Boneless roasted chicken cooked in spices and tomato based creamy curry sauce.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 45,
+      "Name": "Chicken Mushroom",
+      "Price": "$14.99",
+      "Description": "Boneless chicken curry cooked with mushrooms.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 46,
+      "Name": "Chicken Vindaloo",
+      "Price": "$14.99",
+      "Description": "Boneless chicken cooked with potatoes, vinegar & spices.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 47,
+      "Name": "Chicken Saag",
+      "Price": "$14.99",
+      "Description": "Boneless chicken cooked with ginger, garlic, spices and spinach.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 48,
+      "Name": "Chicken Mango",
+      "Price": "$14.99",
+      "Description": "Boneless chicken cooked in onion, ginger and mango sauce.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 49,
+      "Name": "Chicken Madras",
+      "Price": "$14.99",
+      "Description": "Chicken cooked with fresh tomatoes, mustard seeds, onion, ginger,\ncoconut sauce. A Touch of Madras!!!",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 50,
+      "Name": "Chicken Bharta",
+      "Price": "$14.99",
+      "Description": "Chicken cooked with puree of roasted eggplant with onion and tomatoes.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 51,
+      "Name": "Chicken Vegetable",
+      "Price": "$14.99",
+      "Description": "Chicken pieces cooked with mixed vegetables, spices.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    },
+    {
+      "Item Number": 52,
+      "Name": "Chicken Chili",
+      "Price": "$14.99",
+      "Description": "Pan fried chicken with bell pepper, onion, spices and soy sauce.",
+      "Section": "Chicken Curry",
+      "Section Number": 5
+    }
+  ]

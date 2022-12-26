@@ -1,0 +1,66 @@
+[
+  {
+    "Item Number": 64,
+    "Name": "Beef Curry",
+    "Price": "$15.95",
+    "Description": "Beef cooked with onions, garlic, ginger, yogurt and spices.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 65,
+    "Name": "Beef Vindaloo Curry",
+    "Price": "$15.95",
+    "Description": "Beef cooked with potatoes, vinegar and hot spices.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 66,
+    "Name": "Beef Shahi Korma",
+    "Price": "$15.95",
+    "Description": "Beef cooked in cream with a blend of herbs & spices.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 67,
+    "Name": "Beef Saag",
+    "Price": "$15.95",
+    "Description": "Beef cooked with ginger, garlic, spices and spinach.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 68,
+    "Name": "Beef Masala",
+    "Price": "$15.95",
+    "Description": "Beef cooked in a rich tomato cream sauce.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 69,
+    "Name": "Beef Madras",
+    "Price": "$15.95",
+    "Description": "Beef cooked with onions, ginger, garlic and coconut.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 70,
+    "Name": "Beef Mango",
+    "Price": "$15.95",
+    "Description": "Beef cooked with onion, garlic, ginger and mango.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  },
+  {
+    "Item Number": 71,
+    "Name": "Beef Bhartha",
+    "Price": "$15.95",
+    "Description": "Beef cooked with puree of roasted eggplant with onions and tomatoes.",
+    "Section": "Beef Curry",
+    "Section Number": 7
+  }
+]

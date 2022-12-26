@@ -1,0 +1,66 @@
+[
+    {
+      "Item Number": 16,
+      "Name": "Daal (Lentil Soup)",
+      "Price": "$2.95",
+      "Description": "Lentils, Yellow split peas",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 17,
+      "Name": "Chicken Soup",
+      "Price": "$3.95",
+      "Description": "Boneless chicken soup made with vegetables, herbs & spices.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 18,
+      "Name": "Tomato Coconut Soup",
+      "Price": "$3.50",
+      "Description": "A flavorful creamy soup made with coconut and tomatoes.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 19,
+      "Name": "House Salad",
+      "Price": "$8.95",
+      "Description": "Fresh garden vegetables and mixed greens.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 20,
+      "Name": "Tofu Salad",
+      "Price": "$8.95",
+      "Description": "Marinated tofu cooked in clay oven, served over garden vegetables and mixed greens.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 21,
+      "Name": "Chicken Kabob Salad",
+      "Price": "$9.95",
+      "Description": "White meat BBQ chicken served over garden vegetables and mixed greens.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 22,
+      "Name": "Shrimp Salad",
+      "Price": "$10.95",
+      "Description": "Pan sauteed shrimp served over garden vegetables and mixed greens.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    },
+    {
+      "Item Number": 23,
+      "Name": "Salmon Salad",
+      "Price": "$10.95",
+      "Description": "Marinated and clay oven cooked. Served over garden vegetables and mixed greens.",
+      "Section": "Soup and Salad",
+      "Section Number": 3
+    }
+  ]

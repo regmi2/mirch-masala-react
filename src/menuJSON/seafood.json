@@ -1,0 +1,90 @@
+[
+    {
+      "Item Number": 72,
+      "Name": "Lobster Curry",
+      "Price": "$20.95",
+      "Description": "Succulent pieces of lobster cooked in peanut, tamarind\ncoconut curry sauce with herbs & spices.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 73,
+      "Name": "Jinga Macha",
+      "Price": "$20.95",
+      "Description": "Jumbo shrimp and lobster cooked in creamy coconut, peanut, tamarind and lemon sauce, zucchini, peppers and peas.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 74,
+      "Name": "Fish Curry",
+      "Price": "$16.95",
+      "Description": "Boneless fish cooked in onions, garlic, ginger, yogurt and spices.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 75,
+      "Name": "Fish Masala",
+      "Price": "$16.95",
+      "Description": "Fish cooked in a tomato base rich creamy sauce and spices.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 76,
+      "Name": "Fish Vindaloo Curry",
+      "Price": "$15.95",
+      "Description": "Boneless fish cooked with potatoes, vinegar and hot spices.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 77,
+      "Name": "Shrimp Curry",
+      "Price": "$15.95",
+      "Description": "Fresh shrimp cooked in a spicy curried sauce.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 78,
+      "Name": "Shrimp Mango",
+      "Price": "$15.95",
+      "Description": "Shrimp cooked in onion, ginger and mango sauce.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 79,
+      "Name": "Shrimp Vindaloo",
+      "Price": "$15.95",
+      "Description": "Shrimp cooked in a spicy vinegar sauce with potatoes and onions.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 80,
+      "Name": "Shrimp Korma",
+      "Price": "$16.95",
+      "Description": "Shrimp cooked with cream sauce and cashews.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 81,
+      "Name": "Shrimp Masala",
+      "Price": "$16.95",
+      "Description": "Shrimp cooked in a rich tomato based cream sauce.",
+      "Section": "Seafood",
+      "Section Number": 8
+    },
+    {
+      "Item Number": 82,
+      "Name": "Shrimp Madras",
+      "Price": "$16.95",
+      "Description": "Shrimp cooked with onion, ginger, garlic and coconut sauce.",
+      "Section": "Seafood",
+      "Section Number": 8
+    }
+  ]

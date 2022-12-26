@@ -1,0 +1,112 @@
+
+*{
+  background-color: rgb(255, 225, 186);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5em;
+  position: relative;
+  
+}
+
+.header { 
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  z-index: .2;
+}
+
+
+.items{
+  text-align: center;
+  
+  
+}
+
+h1{
+  font-size: 4rem;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: rgb(213, 59, 59);
+  
+}
+
+h2{
+  text-align: center;
+  color: rgb(213, 59, 59);
+  margin-left: 6rem;
+  margin-right: 6rem;
+  border-radius: 50px;
+  margin-top: 4.5rem;
+}
+
+.address-number > h4{
+  font-size: 25px;
+  line-height: 1.5rem;
+  color:rgb(25, 9, 126);
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+.menu-section {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  padding: 1.5em 0;
+
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-radius: 50px;
+  
+}
+
+.item-header{
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+
+
+}
+
+.item-text {
+  flex-grow: 1;
+  padding-left: 1.5em;
+  padding-right: 1em;
+
+}
+
+.item{
+  box-shadow: 4px 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 25px;
+}
+
+.footer{
+  color:rgb(116, 28, 28);
+  text-align: center;
+  margin: auto;
+}
+
+
+
+.item:hover {
+  box-shadow: 8px 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+@media screen and (min-width: 992px) {
+  .menu {
+    font-size: 16px;
+  }
+
+  .menu-section {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+

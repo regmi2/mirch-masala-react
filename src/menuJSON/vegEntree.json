@@ -1,0 +1,194 @@
+[
+    {
+      "Item Number": 101,
+      "Name": "Tofu Buff",
+      "Price": "$13.95",
+      "Description": "Sauteed tofu and fresh vegetables spiced with garlic, ginger and soy sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 102,
+      "Name": "Seitan Buff",
+      "Price": "$13.95",
+      "Description": "Sauteed seitan with vegetables, spiced with garlic, ginger and soy sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 103,
+      "Name": "Tofu Tonic",
+      "Price": "$13.95",
+      "Description": "Tofu prepared in creamy sauce with nuts, zucchini, peppers, green beans and peas.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 104,
+      "Name": "Steamed Vegetables",
+      "Price": "$10.95",
+      "Description": "Broccoli, carrots, peppers, peas, zucchini and cabbage cooked together. Served with basmati rice.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 105,
+      "Name": "Vegetable Korma",
+      "Price": "$13.95",
+      "Description": "Mixed vegetables cooked with cream, herbs and cashews.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 106,
+      "Name": "Paneer Masala",
+      "Price": "$13.95",
+      "Description": "Chunks of cheese sauteed with ginger, garlic, onion, tomatoes, garnished with cashews and raisins, cooked in cream sauce. A Royal Vegetarian Delight!",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 107,
+      "Name": "Palak Paneer",
+      "Price": "$13.95",
+      "Description": "Spinach cooked with cream spices and homemade cheese.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 108,
+      "Name": "Vegetable Mango",
+      "Price": "$13.95",
+      "Description": "Variety of vegetables including green peas, potatoes,\nand cauliflower cooked with mango sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 109,
+      "Name": "Malai Kofta",
+      "Price": "$13.95",
+      "Description": "Vegetable balls, fried and cooked in delicious gravy.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 110,
+      "Name": "Vegetable Masala",
+      "Price": "$13.95",
+      "Description": "Mixed vegetables cooked in spices and thick creamy curry sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 111,
+      "Name": "Mattar Paneer",
+      "Price": "$13.95",
+      "Description": "Fresh homemade cottage cheese and green peas curry.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 112,
+      "Name": "Aloo Gobhi",
+      "Price": "$13.95",
+      "Description": "Cauliflower and potatoes cooked with tomatoes and spices.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 113,
+      "Name": "Saag Aloo",
+      "Price": "$13.95",
+      "Description": "Delightful Ragout of potatoes, spinach, tomatoes, light cream, cinnamon and other spices.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 114,
+      "Name": "Karahi Pakora",
+      "Price": "$13.95",
+      "Description": "Ground flour of chickpeas made into veg fritters cooked in yogurt sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 115,
+      "Name": "Aloo Chana",
+      "Price": "$13.95",
+      "Description": "Chickpeas are deliciously cooked with potatoes, herbs and spices.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 116,
+      "Name": "Aloo Mattar",
+      "Price": "$10.95",
+      "Description": "Fresh green peas cooked in a delicately spiced sauce and potatoes.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 117,
+      "Name": "Baingan Bharta",
+      "Price": "$11.95",
+      "Description": "An eggplant specialty... baked over open flame, mashed and sauteed with onions, garlic, ginger and other spices.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 118,
+      "Name": "Paneer Bhuna",
+      "Price": "$12.95",
+      "Description": "Fresh homemade cheese cooked with tomatoes, onions and green peppers.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 119,
+      "Name": "Mushroom Masala",
+      "Price": "$12.95",
+      "Description": "Fresh mushrooms sauteed with ginger, garlic and onions in a creamy sauce.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 120,
+      "Name": "Saag Chana",
+      "Price": "$12.95",
+      "Description": "Spinach cooked with ginger, spices and chickpeas.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 121,
+      "Name": "Vegetable Mix Curry",
+      "Price": "$11.95",
+      "Description": "Variety of vegetables including green peas, potatoes and cauliflower.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 122,
+      "Name": "Chana Masala",
+      "Price": "$10.95",
+      "Description": "Chickpeas cooked with green vegetables, onions and peppers.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 123,
+      "Name": "Paneer Chili",
+      "Price": "$13.95",
+      "Description": "Paneer cooked with bell peppers, onions, soy sauce and spices.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    },
+    {
+      "Item Number": 124,
+      "Name": "Vegetable Madras",
+      "Price": "$13.95",
+      "Description": "Vegetables cooked with coconut milk.",
+      "Section": "Vegeterian Entrees",
+      "Section Number": 11
+    }
+  ]

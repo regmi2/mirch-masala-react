@@ -1,0 +1,74 @@
+[
+  {
+    "Item Number": 1,
+    "Name": "Papadum",
+    "Price": "$1.99",
+    "Description": "Four slices - Crispy, spicy wafers, made with yellow lentils and spice",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 2,
+    "Name": "Samosa",
+    "Price": "$4.50",
+    "Description": "Two pieces - spicy turnovers stuffed with potatoes and green peas",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 3,
+    "Name": "Aloo Tikki",
+    "Price": "$4.50",
+    "Description": "Chopped potatoes, green peas, gram flour balls, deep fried.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 4,
+    "Name": "Samosa Chaat",
+    "Price": "$6.95",
+    "Description": "Deep fried turnovers served with chickpeas, yogurt, mint chutney. Garnished with onions, tomatoes and cilantro.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 5,
+    "Name": "Aloo Tikki Chaat",
+    "Price": "$6.95",
+    "Description": "Aloo tikki served with chickpeas, yogurt and chutney. Garnished with onions, tomatoes and cilantro.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 6,
+    "Name": "Vegetable Pakora",
+    "Price": "$4.50",
+    "Description": "Mixed vegetables fried in chickpea batter",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 7,
+    "Name": "Paneer Pakora",
+    "Price": "$4.50",
+    "Description": "Homemade cheese, deep fried in chickpea batter.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 8,
+    "Name": "Mixed Vegetable Platter",
+    "Price": "$8.95",
+    "Description": "Three vegetable pakoras and two cheese pakoras, samosa,\naloo tikki and slices of papadum, served with chutney.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  },
+  {
+    "Item Number": 9,
+    "Name": "Vegetable Momo",
+    "Price": "$7.95",
+    "Description": "Steamed mixed veg dumpling, served with achaar.",
+    "Section": "Vegetarian Appetizers",
+    "Section Number": 1
+  }
+]

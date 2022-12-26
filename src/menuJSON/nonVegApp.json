@@ -1,0 +1,50 @@
+[
+  {
+    "Item Number": 10,
+    "Name": "Mussels",
+    "Price": "$10.95",
+    "Description": "Prepared in choice of sauce:\nA. Tomato, lemon, fresh garlic white wine sauce.\nB. Coconut, peanut tamarind lemon, garlic white wine sauce.",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  },
+  {
+    "Item Number": 11,
+    "Name": "Crispy Shrimp Pakora",
+    "Price": "$10.95",
+    "Description": "Breaded Crispy Shrimp",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  },
+  {
+    "Item Number": 12,
+    "Name": "Chicken Pakora",
+    "Price": "$5.99",
+    "Description": "Assorted boneless cubes of chicken deep fried in chickpea batter.",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  },
+  {
+    "Item Number": 13,
+    "Name": "Fish Pakora",
+    "Price": "$7.95",
+    "Description": "Fish boneless and skinless, marinated with yogurt, lemon,\nspices, chickpea batter and deep fried.",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  },
+  {
+    "Item Number": 14,
+    "Name": "Non-Vegetarian Platter",
+    "Price": "$9.95",
+    "Description": "chicken pakora, fish pakora and seekh-kabab. Served with Chutney.",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  },
+  {
+    "Item Number": 15,
+    "Name": "Chicken Momo",
+    "Price": "$8.99",
+    "Description": "Steamed chicken dumpling, served with achaar.",
+    "Section": "Non-Vegetarian Appetizers",
+    "Section Number": 2
+  }
+]

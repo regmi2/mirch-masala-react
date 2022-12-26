@@ -1,0 +1,90 @@
+[
+    {
+      "Item Number": 83,
+      "Name": "Chicken Tandoori",
+      "Price": "$14.95",
+      "Description": "Chicken with bone, marinated and cooked in a clay oven.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 84,
+      "Name": "Chicken Kabab",
+      "Price": "$15.95",
+      "Description": "Boneless chicken marinated in mild spices and cooked in a clay oven.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 85,
+      "Name": "Chicken Secuwa",
+      "Price": "$14.95",
+      "Description": "Chicken marinated with yogurt and home-ground spices\nand saffron. Served with sauteed vegetables and rice.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 86,
+      "Name": "Seekh Kabab",
+      "Price": "$16.95",
+      "Description": "Finely minced lamb seasoned with onions, herbs & spices.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 87,
+      "Name": "Tandoori Mixed Grill",
+      "Price": "$18.95",
+      "Description": "Combination of specialties such as chicken, chicken kabab, shrimp, fish and seekh kabab.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 88,
+      "Name": "Tandoori Shrimp",
+      "Price": "$18.95",
+      "Description": "King sized shrimp marinated and cooked in a clay oven.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 89,
+      "Name": "Fish Tikka",
+      "Price": "$18.95",
+      "Description": "Fish marinated and cooked in a clay oven.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 90,
+      "Name": "Paneer Tikka",
+      "Price": "$14.95",
+      "Description": "Cheese cubes marinated in yogurt sauce, spices and roasted in tandoor.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 91,
+      "Name": "Tofu Secuwa",
+      "Price": "$14.95",
+      "Description": "Marinated tofu cooked in a clay oven, served with sauteed vegetables and rice.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 92,
+      "Name": "Lamb Secuwa",
+      "Price": "$15.95",
+      "Description": "Marinated lamb with spiced yogurt, served with sauteed vegetables and rice.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    },
+    {
+      "Item Number": 93,
+      "Name": "Tandoor Mixed Vegetables",
+      "Price": "$14.95",
+      "Description": "Garden fresh broccoli, bell peppers, onions, cauliflower, tomatoes, potatoes and paneer. Marinated in mixed spices and roasted in a clay oven.",
+      "Section": "Mirch Masala Tandoor",
+      "Section Number": 9
+    }
+  ]
