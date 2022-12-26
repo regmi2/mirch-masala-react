@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mirch-masala-react/static/css/main.1c340325.css",
+    "main.js": "/mirch-masala-react/static/js/main.fda9a4fe.js",
+    "index.html": "/mirch-masala-react/index.html",
+    "main.1c340325.css.map": "/mirch-masala-react/static/css/main.1c340325.css.map",
+    "main.fda9a4fe.js.map": "/mirch-masala-react/static/js/main.fda9a4fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c340325.css",
+    "static/js/main.fda9a4fe.js"
+  ]
+}
